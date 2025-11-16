@@ -159,29 +159,6 @@ export default function Footer() {
             © {currentYear} VS Signage Enterprise. All rights reserved. | 
             <span className="text-accent"> Precision • Quality • Reliability</span>
           </p>
-     <div className="flex flex-col md:flex-row items-center justify-center gap-6 bg-black px-6 py-5 rounded-3xl shadow-[0_0_30px_rgba(255,255,0,0.3)]">
-  <a
-    href="https://your-portfolio-url.com"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="font-bold text-2xl text-yellow-400 text-center md:text-left tracking-wide transition-all duration-300 hover:text-yellow-300 hover:drop-shadow-[0_0_20px_rgba(255,255,0,0.9)]"
-  >
-    Looking for a Web Designer?
-  </a>
-
-  <motion.a
-    href="mailto:webdesigner@example.com"
-    className="bg-black border-2 border-yellow-400 text-yellow-400 px-7 py-3 rounded-2xl font-semibold hover:bg-yellow-400 hover:text-black hover:shadow-[0_0_25px_rgba(255,255,0,0.8)] transition-all duration-300 flex items-center gap-3 animate-neonPulse"
-    whileHover={{ scale: 1.07 }}
-    whileTap={{ scale: 0.95 }}
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <i className="fas fa-user-tie"></i>
-    Contact us
-  </motion.a>
-</div>
-
         </motion.div>
       </div>
     </footer>
