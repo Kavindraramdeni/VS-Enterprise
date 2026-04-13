@@ -33,8 +33,7 @@ export default function HeroSection() {
               animate={isVisible ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
               transition={{ duration: 0.8, delay: 0.6 }}
             >
-              <span className="block text-accent animate-pulse-glow">VS SIGNAGE</span>
-              <span className="block">ENTERPRISE</span>
+              <span className="block text-accent animate-pulse-glow">KriaTech</span>
               <span className="block text-2xl lg:text-4xl xl:text-5xl 2xl:text-6xl text-muted-foreground font-semibold mt-4">
                 PRECISION LASER CUTTING
               </span>
