@@ -48,7 +48,7 @@ export default function Footer() {
                 <span className="text-accent font-display font-black text-sm">VS</span>
               </div>
               <div>
-                <h3 className="font-display font-bold text-foreground">VS Signage Enterprise</h3>
+                <h3 className="font-display font-bold text-foreground">KriaTech</h3>
                 <p className="text-muted-foreground text-sm">Premium Signage Solutions</p>
               </div>
             </div>
