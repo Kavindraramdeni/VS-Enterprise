@@ -115,11 +115,11 @@ export default function Navigation() {
             className="flex items-center gap-4 group"
           >
             <div className="metal-surface w-16 h-16 rounded-xl flex items-center justify-center transition-transform duration-300 group-hover:scale-105">
-              <span className="text-accent font-display font-black text-xl">VS</span>
+              <span className="text-accent font-display font-black text-xl">KT</span>
             </div>
             <div className="hidden md:block">
               <h1 className="font-display font-bold text-lg text-foreground m-0">
-                VS Signage Enterprise
+                KriaTech
               </h1>
               <p className="text-muted-foreground text-xs m-0 text-yellow-300">
                 LED Signage • Precision Cutting • Custom Fabrication
