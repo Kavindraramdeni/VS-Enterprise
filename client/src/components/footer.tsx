@@ -49,7 +49,7 @@ export default function Footer() {
               </div>
               <div>
                 <h3 className="font-display font-bold text-foreground">KriaTech</h3>
-                <p className="text-muted-foreground text-sm">Premium Signage Solutions</p>
+                <p className="text-muted-foreground text-sm">Premium Wall Art</p>
               </div>
             </div>
             <p className="text-muted-foreground text-sm mb-4 max-w-md">
