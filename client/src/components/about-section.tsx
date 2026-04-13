@@ -20,9 +20,9 @@ export default function AboutSection() {
           animate={isVisible ? { opacity: 1, y: 0 } : { opacity: 0, y: 30 }}
           transition={{ duration: 0.8 }}
         >
-          <h2 className="font-display font-bold text-3xl lg:text-5xl text-foreground mb-6">About VS Signage</h2>
+          <h2 className="font-display font-bold text-3xl lg:text-5xl text-foreground mb-6">About KriaTech</h2>
           <p className="text-muted-foreground text-lg lg:text-xl max-w-4xl mx-auto leading-relaxed">
-            VS Signage Enterprise is a specialized signage and fabrication company focusing on premium LED signage solutions, precision laser cutting, and custom fabrication services & installation. From individual signage projects to large commercial installations — we deliver professional-grade design, cutting, assembly and finishing to meet the highest industry standards.
+            KriaTech is a specialized signage and fabrication company focusing on premium LED signage solutions, precision laser cutting, and custom fabrication services & installation. From individual signage projects to large commercial installations — we deliver professional-grade design, cutting, assembly and finishing to meet the highest industry standards.
           </p>
         </motion.div>
 
